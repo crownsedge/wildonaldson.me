@@ -7,15 +7,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            William Donaldson
+tagline:          'For the love of radio.'
+description: >
+				  Innovative, music-based radio programming made to entrance
+                  listeners and further radio as a creative medium.
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'William Donaldson'
+  url:            https://williamdonaldson.me
 
 paginate:         5
 
@@ -23,4 +25,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/wonaldson/wonaldson.github.io
