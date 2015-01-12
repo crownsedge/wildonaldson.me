@@ -1,31 +1,14 @@
 ---
 layout: page
 title: About
-header-title: My name is William Donaldson.
+"header-title": My name is William Donaldson.
+published: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm a 23-year old [Digital Media Programming and Management](http://www.newpaltz.edu/ugc/las/comm_media/major_dmprog-mgmt.html) student finishing up his last year at the [State University of New York at New Paltz](http://newpaltz.edu/). In my free time, I [listen to music](http://last.fm/user/nukumi), watch people [play video games](http://twitch.tv), and make this really cool [radio show](http://drifts.fm/). If you're curious, you can read about the [classes I'm taking]({% site.pages.school.url %}) this semester.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## What is my ethos?
+fill in later
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+## How can I get in touch?
+fb, twit, phon, email
