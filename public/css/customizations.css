@@ -25,3 +25,16 @@ html {
 p a {
 	font-weight: bold;
 }
+
+
+
+
+/* 
+	GENERAL-USE
+	
+	General use code.
+*/
+	
+.vis-hidden {
+	visibility: hidden;
+}
