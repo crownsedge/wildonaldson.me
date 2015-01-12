@@ -13,6 +13,8 @@ description:      'For the love of radio.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
+timezone:         America/New_York
+
 author:
   name:           'William Donaldson'
   url:            http://williamdonaldson.me
