@@ -15,5 +15,5 @@ buh
 ### What is my ethos?
 fill in later
 
-## How can I get in touch?
+## Want to get in touch?
 fb, twit, phon, email
