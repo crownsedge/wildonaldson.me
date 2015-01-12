@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: My name is William Donaldson.
+sidebar-title: About
 ---
 
 <p class="message">
