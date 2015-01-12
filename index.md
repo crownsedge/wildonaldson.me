@@ -12,4 +12,6 @@ Focusing on innovative, music-based radio programming, I create and curate the e
 
 Read more [about me](/about/), or take a look at [my portfolio](/portfolio/). Or, if you want, just jump straight to [the resume](/resume/).
 
+If you're interested in some samples of my writing, why not stop by my [blog](/posts/)?
+
 Have a question? [will@tazmily.com](mailto:will@tazmily.com)
