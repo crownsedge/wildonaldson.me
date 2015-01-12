@@ -9,8 +9,7 @@ relative_permalinks: true
 # Setup
 title:            William Donaldson
 tagline:          'For the love of radio.'
-description:      'Innovative, music-based radio programming made to entrance
-                  listeners and further radio as a creative medium.'
+description:      'For the love of radio.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -26,3 +25,10 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/wonaldson/wonaldson.github.io
+
+# Collections
+collections:
+- radio
+- audio
+- writing
+- design
