@@ -29,6 +29,8 @@ Sorry, that became about me again. Then again, this website is a website about m
 
 I believe in honesty. Capital-H honesty. We all go through life just trying to survive, so the least I can do is be honest to other people. I believe in working well with others, and bringing professionality into your personality. (Professionality. adj. Who you are as a professional person. It's red in my spell checker!)
 
+Similar to that, I believe in openness. The entirety of this website is written using an open-source toolchain - more about that below.
+
 ### What do you want?
 
 Success and happiness, and I'm going to do everything in my power to get both of those, no matter what trials and tribulations I have to go through. Full stop.
