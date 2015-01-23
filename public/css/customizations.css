@@ -1,0 +1,40 @@
+/*
+	Customizations to the CSS.
+	Written by William Donaldson for his personal website.
+	Original theme, Hyde, by @mdo and released under MIT License.
+	These changes are also released under the MIT License.
+*/
+
+
+/* 
+	TYPE
+	
+	Updating the default typefaces to use nicer ones
+	from Typekit.
+*/
+
+html {
+	font-family: "proxima-nova", Helvetica, Arial, sans-serif;
+}
+
+.sidebar-about h1 {
+	font-family: "proxima-nova";
+	font-size: 2.85rem;  /* Fit my name in better */
+}
+
+p a {
+	font-weight: bold;
+}
+
+
+
+
+/* 
+	GENERAL-USE
+	
+	General use code.
+*/
+	
+.vis-hidden {
+	visibility: hidden;
+}

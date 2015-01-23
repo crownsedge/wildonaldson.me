@@ -1,0 +1,36 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            William Donaldson
+tagline:          'For the love of radio.'
+description:      'For the love of radio.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+timezone:         America/New_York
+
+author:
+  name:           'William Donaldson'
+  url:            http://williamdonaldson.me
+
+paginate:         5
+paginate_path:    "posts/page:num/"
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/wonaldson/wonaldson.github.io
+
+# Collections
+collections:
+- radio
+- audio
+- writing
+- design
