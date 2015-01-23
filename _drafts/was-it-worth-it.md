@@ -8,4 +8,4 @@ Working at [Sirius XM](http://siriusxm.com) felt like a chore at times. I wanted
 
 My mentor, [David Srebnik](https://linkedin.com/in/davidsrebniklinkedin) was unlike any boss I had ever had before. He was stern, and had a lot of important lessons he wanted to teach me about working in an office like Sirius XM's. One of those was to not overwork myself. In the end, though, I did, and that culminated in my December 3rd hospitalization at MedStar Washington Hospital Center. 
 
-After going through 5 hospitalizations in the past few months, though, I feel like a completely different person. I have confidence, which I had struggled with for a long time. 
+After going through five hospitalizations in the past two months, though, I feel like a completely different person. I have confidence, which I had struggled with for a long time. I decided to live for my future and not wallow in the past. Right now I feel like I finally get all the lessons David had been trying to teach me, and I guess I have the passage of time to thank. 
