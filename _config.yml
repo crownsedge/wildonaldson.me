@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            William Donaldson
 tagline:          'For the love of radio.'
 description:      'For the love of radio.'
-url:              http://hyde.getpoole.com
+url:              http://williamdonaldson.me
 baseurl:          /
 
 timezone:         America/New_York
@@ -26,11 +26,10 @@ paginate_path:    "posts/page:num/"
 version:          2.1.0
 
 github:
-  repo:           https://github.com/wonaldson/wonaldson.github.io
+  repo:           https://github.com/wonaldson/williamdonaldson.me
 
 # Collections
 collections:
-- radio
 - audio
-- writing
-- design
+- radio
+- video
