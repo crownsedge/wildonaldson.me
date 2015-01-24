@@ -36,3 +36,10 @@ collections:
   layout: item
  videos:
   layout: item
+
+# Social links
+social:
+  facebook: https://facebook.com/wonaldson
+  twitter: https://twitter.com/wonaldson
+  linkedin: https://linkedin.com/in/wonaldson
+  github: https://github.com/wonaldson

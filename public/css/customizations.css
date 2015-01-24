@@ -38,3 +38,23 @@ p a {
 .vis-hidden {
 	visibility: hidden;
 }
+
+/* social networking buttons */
+
+nav.sidebar-social {
+	display: inline-block;
+
+}
+nav.sidebar-social a.social-button {
+	display: inline;
+	margin-right: 0.25rem;
+}
+
+nav.sidebar-social a.social-button img {
+	display: inline;
+	height: 1rem;
+
+}
+nav.sidebar-social a.social-button:last-child {
+	margin-right: 0;
+}
