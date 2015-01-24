@@ -30,6 +30,9 @@ github:
 
 # Collections
 collections:
-- audio
-- radio
-- video
+ audio:
+  layout: item
+ radio:
+  layout: item
+ videos:
+  layout: item

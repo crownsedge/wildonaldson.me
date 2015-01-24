@@ -18,11 +18,6 @@
     {% endif %}
   </title>
   
-  {% if page.redirect-on-load == True %}
-  <!-- We are redirecting from wonaldson.me to williamdonaldson.me -->
-  <META http-equiv="refresh" content="0;URL=http://williamdonaldson.me/">
-  {% endif %}
-
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
@@ -32,8 +27,7 @@
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/customizations.css">
   <script src="//use.typekit.net/rdv0nsw.js"></script>
   <script>try{Typekit.load();}catch(e){}</script>
-  
-
+	
   <!-- Icons {% comment %} These are still the default icons. {% endcomment %} -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-144-precomposed.png">
                                  <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
