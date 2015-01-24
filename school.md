@@ -1,6 +1,7 @@
 ---
 layout: page
 title: School
+header-title: "I'm always learning."
 published: true
 ---
 
