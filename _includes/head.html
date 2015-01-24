@@ -17,6 +17,11 @@
        {% endif %}
     {% endif %}
   </title>
+  
+  {% if page.redirect-on-load == True %}
+  <!-- We are redirecting from wonaldson.me to williamdonaldson.me -->
+  <META http-equiv="refresh" content="0;URL=http://williamdonaldson.me/">
+  {% endif %}
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
