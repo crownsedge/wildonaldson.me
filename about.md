@@ -42,5 +42,5 @@ I like collecting music and headphones. I have a couple really nice pairs of hea
 ### Tell me about this website.
 That's not a question.
 
-I did an internship with [Sirius XM] in Washington, D.C. in the fall of 2014, and this website was made with the intended purpose of getting a job with them. It's coded with [Coda], created with [Jekyll] and themed with [Hyde], and it's all running on [Github] Pages for free thanks to a little company called [Namecheap]. It's written in plain English because I want to be very easily understood, and if there's one thing professionals in America know, it's English.
+I did an internship with [Sirius XM](http://siriusxm.com) in Washington, D.C. in the fall of 2014, and this website was made with the intended purpose of getting a job with them. It's coded with [Coda](http://panic.com/coda), created with [Jekyll](http://jekyllrb.com) and themed with [Hyde](http://hyde.getpoole.com), and it's all running on [Github Pages](https://pages.github.com) for free thanks to a little company called [Namecheap](http://nc.me). It's written in plain English because I want to be very easily understood, and if there's one thing professionals in America know, it's English.
 
