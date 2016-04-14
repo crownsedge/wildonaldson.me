@@ -2,14 +2,14 @@
 layout: page
 title: Resume
 header-title: "It's just a curriculum vitae."
-gpa: 3.43
+gpa: 3.32
 ---
 
-<p class="message">Just want the PDF? All you need to do is <a href="/resume/William Donaldson - Resume.pdf">click here.</a></p>
+<p class="message">Want a PDF? <a href="/resume/Wil Donaldson - Resume.pdf">Click here.</a></p>
 
 ## Summary
 
-I create innovative, music-oriented radio programming with an aim to entrance listeners and further the progress of radio as a creative medium. With my radio show, Drifts, I have worked with numerous musicians to promote their works and spread the music I love to a fanbase of hundreds of listeners. At Sirius XM, I spent time working as an intern in their classical music department, and am familiar with their content management system Dalet.
+For six years, I created innovative, music-oriented radio programming with an aim to entrance listeners and further the progress of radio as a creative medium. With my radio show, Drifts, I have worked with numerous musicians to promote their works and spread the music I love to a fanbase of hundreds of listeners. At Sirius XM, I spent time working as an intern in their classical music department, and am familiar with their content management system Dalet.
 
 ## Education
 
@@ -25,7 +25,7 @@ From September to December of 2014, I worked out of Sirius XM's Washington D.C. 
 
 ### Drifts
 
-Since September of 2010, I have produced and presented Drifts, a new music radio show focusing on the stranger, more futuristic sides of the emerging Electronic music underground. I spend time researching and finding new music for airplay, interviewing guests for air, managing a social media brand including Facebook and Twitter, and keep an updated website, all with consistent visual branding.
+From September of 2010 to November of 2015, I produced and presented Drifts, a new music radio show focusing on the stranger, more futuristic sides of the emerging Electronic music underground. I spent time researching and finding new music for airplay, interviewing guests for air, managing a social media brand including Facebook and Twitter, and kept an updated website, all with consistent visual branding.
 
 ### WFNP The Edge
 
@@ -41,8 +41,8 @@ From 2009 to 2011, I owned and operated a small Internet-based radio station for
 
 ## Skills
 
-I have excellent [writing skills](/posts/) and am very knowledgeable with [Audacity]. I'm becoming more familiar with [Adobe Audition] by the day, as it is what I now use to create my radio show. I have some minor experience with Pro Tools as well. HTML5 and CSS3 helped build this website, and I can get my way around Photoshop, Microsoft Word, and an FTP client (I use [Transmit](http://panic.com/transmit)).
+I have excellent [writing skills](/posts/) and am very knowledgeable with [Audacity] and [Adobe Audition]. HTML5 and CSS3 helped build this website, and I can get my way around Photoshop, Microsoft Word, and an FTP client (I use [Transmit](http://panic.com/transmit)). I am also proficient with the UNIX shell.
 
 # Want to hire me?
 
-You can contact me by electronic mail at [will@williamdonaldson.me](mailto:will@williamdonaldson.me) or phone me at +1 (845) 549-3235.
+You can contact me by electronic mail at [wil@wildonaldson.me](mailto:wil@wildonaldson.me) or phone me at +1 (845) 549-3235.

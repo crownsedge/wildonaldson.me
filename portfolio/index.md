@@ -1,21 +1,16 @@
 ---
 layout: page
 title: Portfolio
-header-title: Page updating soon
+header-title: I keep busy.
 ---
 
-{% comment %}
-I've got lots of things that I love to do. Some of them are even hirable skills! Take a look below at what I've been up to:
+I've got lots of things that I love to do. Take a look below at what I've been up to:
 
-## [Radio](/radio/)
-Work with my radio show, [Drifts](http://drifts.fm/) and more.
-
-## [Audio](/audio/)
-Audio editing work done for school and others.
-
-## [Video](/video/)
-Some examples of my video work.
+## [Radio](http://drifts.fm/)
+My radio show and podcast [Drifts](http://drifts.fm/) spanned almost 70 episodes and helped me land an internship with [Sirius XM](http://siriusxm.com/) Satellite Radio.
 
 ## [Writing](/posts/)
-I've posted a bunch of my writing here on my blog.
-{% endcomment %}
+Check out some featured writing from my school years and from my internship with Sirius XM.
+
+## Other things
+Other things that fall outside those categories - some audio work, some personal writing. (Updating soon)

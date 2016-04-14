@@ -1,19 +1,21 @@
 ---
 layout: page
 title: About
-"header-title": My name is William Donaldson.
+"header-title": My name is Wil Donaldson.
 published: true
 ---
 
 I'm a 24-year old [Digital Media Programming and Management](http://www.newpaltz.edu/ugc/las/comm_media/major_dmprog-mgmt.html) student finishing up his last year at the [State University of New York at New Paltz](http://newpaltz.edu/). In my free time, I like to [write](/posts/), listen to [music](http://last.fm/user/nukumi), and watch people [play video games](http://twitch.tv). I also used to make this really cool [radio show](http://drifts.fm/). If you're curious, you can read about the [classes I'm taking](/school/) this semester.
 
 ## Want to get in touch?
-I can be reached in a lot of ways. Some of them are [Twitter](https://twitter.com/wonaldson), [Linkedin](https://linkedin.com/wonaldson), and good old-fashioned [email](mailto:will@williamdonaldson.me). I'm also available by phone or Skype - just ask for my number using one of those methods.
+I can be reached in a lot of ways. Some of them are [Twitter](https://twitter.com/wonaldson), [Linkedin](https://linkedin.com/wonaldson), and good old-fashioned [email](mailto:wil@wildonaldson.me). I'm also available by phone or Skype - just ask for my number using one of those methods.
 
 ## And now, for some questions.
 
 ### What do you know?
-I know a lot of things, like how to use a computer, and what great radio truly is. But, more importantly, I have some basic skills, like knowledge of how to enter metadata into a content management system very effectively. For my radio show, I use [iTunes](http://apple.com/itunes), and when I was an intern at Sirius XM, I learned how to use [Dalet](http://www.dalet.com).
+(Rewriting)
+
+(cms) how to enter metadata into a content management system very effectively. For my radio show, I use [iTunes](http://apple.com/itunes), and when I was an intern at Sirius XM, I learned how to use [Dalet](http://www.dalet.com).
 
 ### What do you believe?
 
@@ -27,7 +29,7 @@ I believe in openness. The entirety of this website is written using an open-sou
 
 ### What do you want?
 
-Success and happiness, and I'm going to do everything in my power to get both of those, no matter what trials and tribulations I have to go through. Full stop.
+I want to change the world. At the very least, I want the things I work on to touch people. If you can affect enough people, if you can change people's lives just a small amount, in your own way, you *have* changed the world, even if just a little bit.
 
 ### What do you like?
 
