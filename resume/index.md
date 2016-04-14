@@ -9,7 +9,7 @@ gpa: 3.32
 
 ## Summary
 
-For six years, I created innovative, music-oriented radio programming with an aim to entrance listeners and further the progress of radio as a creative medium. With my radio show, Drifts, I have worked with numerous musicians to promote their works and spread the music I love to a fanbase of hundreds of listeners. At Sirius XM, I spent time working as an intern in their classical music department, and am familiar with their content management system Dalet.
+For six years, I created innovative, music-oriented radio programming with an aim to entrance listeners and further the progress of radio as a creative medium. With my radio show, Drifts, I have worked with numerous musicians to promote their works and spread the music I love to a fanbase of hundreds of listeners. At Sirius XM, I spent time working as an intern in their classical music department, and became familiar with their content management system Dalet.
 
 ## Education
 
