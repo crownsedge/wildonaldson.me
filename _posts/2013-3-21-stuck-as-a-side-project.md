@@ -1,5 +1,5 @@
 ---
-title: Stuck as a Side Project: Terry Gilliam’s Unfruitful Labor of Love
+title: "Stuck as a Side Project: Terry Gilliam’s Unfruitful Labor of Love"
 layout: post
 ---
 
