@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Another Tale: How *Undertale* Subverts Everything You Thought You Knew About Video Games"
+title: "Another Tale: How Undertale Subverts Everything You Thought You Knew About Video Games"
 ---
 
 > _This piece was written for the class_ Media Research Methods _at SUNY New Paltz in October of 2015._
