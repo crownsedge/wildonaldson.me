@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spray: The Positive Power of Graffiti Art"
+title: "Spray"
 ---
 
 > _This paper was written for the class_ Composition II _at SUNY New Paltz in April of 2013._
