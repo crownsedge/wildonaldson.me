@@ -1,6 +1,7 @@
 ---
 published: true
 title: "Don’t (or Do) Look Back: How “Don’t Look Back” and “The Times of Harvey Milk” Handle the News Media"
+layout: post
 ---
 
 
