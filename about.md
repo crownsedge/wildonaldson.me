@@ -5,7 +5,7 @@ title: About
 published: true
 ---
 
-I'm a 24-year old [Digital Media Programming and Management](http://www.newpaltz.edu/ugc/las/comm_media/major_dmprog-mgmt.html) student finishing up his last year at the [State University of New York at New Paltz](http://newpaltz.edu/). In my free time, I like to [write](/posts/), listen to [music](http://last.fm/user/nukumi), and watch people [play video games](http://twitch.tv). I also used to make this really cool [radio show](http://drifts.fm/). If you're curious, you can read about the [classes I'm taking](/school/) this semester.
+I'm a 24-year old [Digital Media Programming and Management](http://www.newpaltz.edu/ugc/las/comm_media/major_dmprog-mgmt.html) student finishing up my last year at the [State University of New York at New Paltz](http://newpaltz.edu/). In my free time, I like to [write](/posts/), listen to [music](http://last.fm/user/nukumi), and watch people [play video games](http://twitch.tv). I also used to make this really cool [radio show](http://drifts.fm/). If you're curious, you can read about the [classes I'm taking](/school/) this semester.
 
 ## Want to get in touch?
 I can be reached in a lot of ways. Some of them are [Twitter](https://twitter.com/wonaldson), [Linkedin](https://linkedin.com/wonaldson), and good old-fashioned [email](mailto:wil@wildonaldson.me). I'm also available by phone or Skype - just ask for my number using one of those methods.
