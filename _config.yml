@@ -1,10 +1,7 @@
-# Dependencies
-# markdown:         redcarpet
-highlighter:      pygments
+# Dependencies (removed)
 
 # Permalinks
 permalink:        pretty
-# relative_permalinks: true
 
 # Setup
 title:            William Donaldson
