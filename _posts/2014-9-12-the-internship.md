@@ -3,7 +3,9 @@ layout: post
 title: 'The internship: Sirius XM'
 ---
 
-This semester, I’m doing an internship at Sirius XM’s offices in Washington, DC. 
+> _This post was written for the_ Internship Seminar _at SUNY New Paltz in September of 2014._
+
+This semester, I’m doing an internship at Sirius XM’s offices in Washington, DC.
 
 Sirius XM began as two separate companies: Sirius Satellite Radio, founded in May of 1990 and headquartered in Manhattan, and XM Satellite Radio, founded in 1988 as the American Mobile Satellite Corporation and headquartered in Washington, DC. In July of 2008, the two companies merged into Sirius XM.
 

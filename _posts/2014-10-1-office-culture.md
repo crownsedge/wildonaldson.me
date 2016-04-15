@@ -3,6 +3,8 @@ layout: post
 title: Office culture
 ---
 
+> _This post was written for the_ Internship Seminar _at SUNY New Paltz in October of 2014._
+
 Sirius XM is a very interesting environment to be a part of in terms of the office culture. Multiple times a day, I see people dressed quite nicely walk past, obviously of some importance. Just as often, though, I see people dressed very simply: a hoodie and jeans, for instance, or a t-shirt and shorts. Even my boss dresses more casually than I do. It’s clearly not an overly homogenous culture: you work within the confines of the dress code set by the departments you work in – or, more likely, you simply wear what makes you feel most comfortable.
 
 About seven years ago, this office was not Sirius XM, but just XM. Then, in 2008, the two companies merged, and workforce cuts ensued, as the need to reduce redundancies arose – the result of two nearly-identical channel lineups coming together into one. The fact that the office I am working in used to be the headquarters of XM Satellite Radio is quite evident – if you look around, there are numerous indicators of the company’s pre-merger past, with posters and personal items abound. Seven years later, there are still computers here that simply only have the XM logo, or the logo that was made immediately post-merger, with both the old Sirius and XM logos simply put side-by-side. Even the logo on the front of the building, at the intersection of Florida Avenue and Eckington Place, is still the XM logo of long ago.
