@@ -12,10 +12,10 @@ title: Posts
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">{{ post.date | site.date_format }}</span>
 
     {{ post.excerpt }}
-    
+
     {% if post.content != post.excerpt %}
       <a href="{{ post.url }}">Read more &rarr;</a>
     {% endif %}
