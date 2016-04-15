@@ -12,7 +12,7 @@ title: Posts
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | site.date_format }}</span>
+    <span class="post-date">{{ post.date | date: site.date_format }}</span>
 
     {{ post.excerpt }}
 
