@@ -33,11 +33,11 @@ p a {
 	Color theming
 */
 .theme-base-00 .sidebar {
-  background-color: #f77;
+  background-color: #f65;
 }
 .theme-base-00 .content a,
 .theme-base-00 .related-posts li a:hover {
-  color: #f77;
+  color: #f65;
 }
 
 /*

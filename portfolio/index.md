@@ -13,4 +13,4 @@ My radio show and podcast [Drifts](http://drifts.fm/) spanned almost 70 episodes
 Check out some featured writing from my school years and from my internship with Sirius XM.
 
 ## Other things
-Other things that fall outside those categories - some audio work, some personal writing. (Updating soon)
+Other things that fall outside those categories - some audio work, some personal writing. (Updating very soon)
