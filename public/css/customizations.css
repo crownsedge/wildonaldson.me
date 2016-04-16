@@ -6,9 +6,9 @@
 */
 
 
-/* 
+/*
 	TYPE
-	
+
 	Updating the default typefaces to use nicer ones
 	from Typekit.
 */
@@ -27,14 +27,25 @@ p a {
 }
 
 
+/*
+	THEME
 
+	Color theming
+*/
+.theme-base-00 .sidebar {
+  background-color: #f88;
+}
+.theme-base-00 .content a,
+.theme-base-00 .related-posts li a:hover {
+  color: #f88;
+}
 
-/* 
+/*
 	GENERAL-USE
-	
+
 	General use code.
 */
-	
+
 .vis-hidden {
 	visibility: hidden;
 }
