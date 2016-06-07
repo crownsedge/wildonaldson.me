@@ -2,18 +2,18 @@
 layout: page
 title: Resume
 header-title: "Some call it a curriculum vitae."
-gpa: 3.32
+gpa: 3.35
 ---
 
 <p class="message">Want a PDF? <a href="/resume/Wil Donaldson - Resume.pdf">Click here.</a></p>
 
 ## Summary
 
-For six years, I created innovative, music-oriented radio programming with an aim to entrance listeners and further the progress of radio as a creative medium. With my radio show, Drifts, I have worked with numerous musicians to promote their works and spread the music I love to a fanbase of hundreds of listeners. At Sirius XM, I spent time working as an intern in their classical music department, and became familiar with their content management system Dalet.
+For five years, I created innovative, music-oriented radio programming with an aim to entrance listeners and further the progress of radio as a creative medium. With my radio show, [Drifts](#drifts), I have worked with numerous musicians to promote their works and spread the music I love to a fanbase of hundreds of listeners. At [Sirius XM](#sirius-xm), I spent time working as an intern in their classical music department, and became familiar with their content management system Dalet.
 
 ## Education
 
-I am currently a student at the [State University of New York at New Paltz](http://newpaltz.edu). Since August of 2012, I've been pursuing a Bachelor of Arts in [Digital Media Programming & Management](http://www.newpaltz.edu/ugc/las/comm_media/major_dmprog-mgmt.html). I will be graduating in May of 2016, and have a current GPA of {{ page.gpa }}.
+I have a Bachelor of Arts in [Digital Media Programming & Management](http://www.newpaltz.edu/ugc/las/comm_media/major_dmprog-mgmt.html) from the [State University of New York at New Paltz](http://newpaltz.edu). I graduated in May of 2016 with a GPA of {{ page.gpa }}.
 
 In the past, I also spent time at [Binghamton University](http://binghamton.edu), working towards a Bachelor of Science in Computer Science from August 2009 to April of 2011.
 
@@ -45,4 +45,4 @@ I have excellent [writing skills](/posts/) and am very knowledgeable with [Adobe
 
 # Want to hire me?
 
-You can contact me by electronic mail at [wil@wildonaldson.me](mailto:wil@wildonaldson.me) or phone me at +1 (845) 549-3235.
+You can contact me by electronic mail at [wil@wildonaldson.me](mailto:wil@wildonaldson.me). My phone number, Skype username, and mailing address are also available by request.
