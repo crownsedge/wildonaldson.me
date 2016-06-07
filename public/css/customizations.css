@@ -51,13 +51,17 @@ p a {
 	visibility: hidden;
 }
 
-/* Pad internal links */
+/*
+	Pad internal links
+	Thanks to Chris Coyier for the method
+	https://css-tricks.com/hash-tag-links-padding/
+*/
 h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {
 	z-index: -999;
 	display: block;
   content: " ";
   margin-top: -3em;
-  height: 3em; 
+  height: 3em;
   visibility: hidden;
 }
 
