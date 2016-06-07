@@ -51,6 +51,16 @@ p a {
 	visibility: hidden;
 }
 
+/* Pad internal links */
+h1:before, h2:before, h3:before, h4:before, h5:before, h6:before {
+	z-index: -999;
+	display: block;
+  content: " ";
+  margin-top: -3em;
+  height: 3em; 
+  visibility: hidden;
+}
+
 /* social networking buttons */
 
 nav.sidebar-social {
