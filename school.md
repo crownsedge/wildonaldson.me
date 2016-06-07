@@ -2,7 +2,7 @@
 layout: page
 title: School
 header-title: "I'm always learning."
-published: true
+published: false
 ---
 
 I'm currently a Digital Media Programming and Management major at the State University of New York at New Paltz, in my last few weeks of classes. I'm taking four classes this semester:
