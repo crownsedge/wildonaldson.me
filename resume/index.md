@@ -5,7 +5,7 @@ header-title: "Some call it a curriculum vitae."
 gpa: 3.35
 ---
 
-> Want a PDF? [Click here.](/resume/Wil Donaldson - Resume.pdf)
+<p class="message">Want a PDF? <a href="/resume/Wil Donaldson - Resume.pdf">Click here.</a></p>
 
 ## Summary
 
