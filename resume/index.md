@@ -21,7 +21,7 @@ In the past, I also spent time at [Binghamton University](http://binghamton.edu)
 
 ### Sirius XM
 
-From September to December of 2014, I worked out of [Sirius XM](http://siriusxm.com/)'s Washington D.C. offices as a Classical Music Intern. I assembled and mixed daily shows for air, ingested new classical music into their digital music library, assisted in the maintenance and upkeep of said library, and assisted the on-air talent with show preparation. My work was heard daily on [Symphony Hall](https://en.wikipedia.org/wiki/Symphony_Hall_(Sirius_XM)), channel 76. In addition, I briefly contributed writing talent to the *This Day in Classical Music* segment on [Sirius XM Pops](https://en.wikipedia.org/wiki/Sirius_XM_Pops), channel 75.
+From September to December of 2014, I worked out of [Sirius XM](http://siriusxm.com/)'s Washington D.C. offices as a Classical Music Intern. I assembled and mixed daily shows for air, ingested new classical music into their digital music library, assisted in the maintenance and upkeep of said library, and assisted the on-air talent with show preparation by providing them with news updates. My work was heard daily on [Symphony Hall](https://en.wikipedia.org/wiki/Symphony_Hall_(Sirius_XM)), channel 76. In addition, I briefly contributed writing talent to the *This Day in Classical Music* segment on [Sirius XM Pops](https://en.wikipedia.org/wiki/Sirius_XM_Pops), channel 75.
 
 ### Drifts
 
