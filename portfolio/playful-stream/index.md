@@ -26,7 +26,7 @@ There are four primary components to the setup as it exists now: Icecast, a cust
 
 ### Icecast
 
-[Icecast][1] is an open-source free software project maintained by the [Xiph.org Foundation][3] that is designed for media streaming. It is, along with similar project ShoutCAST, responsible for powering the vast majority of streaming audio internet radio stations.
+[Icecast][1] is an open-source free software project maintained by the [Xiph.org Foundation][3] that is designed for media streaming. It is, along with similar project ShoutCAST, responsible for powering the vast majority of streaming internet radio stations.
 
 Setting up this software is fairly straightforward, and I'm fortunate in that I've done it before, so there were few hiccups. I set up two mount points: one for DJs to connect to do their shows, and another in advance for when I would set up automation with MPD. Once Icecast was fully configured, I began feeding it with audio data from [Nicecast][4] on my laptop.
 
