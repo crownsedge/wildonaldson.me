@@ -14,7 +14,7 @@ For a fun summer project while trying to find a job after my last undergraduate 
 
 ## Background
 
-From roughly 2009 to 2011, I owned and operated Indievidual Radio, a boutique radio station designed to serve the needs of a small community of music lovers I was a part of. This station ran on [Icecast](1) and [MPD](2), and I was responsible for installing, configuring, and maintaining the software, managing the station's DJs and their time slots, and also contributing DJ time myself. In a similar vein, I wanted to spend some time recreating a similar setup and working in some new technologies at the same time.
+From roughly 2009 to 2011, I owned and operated Indievidual Radio, a boutique radio station designed to serve the needs of a small community of music lovers I was a part of. This station ran on [Icecast][1] and [MPD][2], and I was responsible for installing, configuring, and maintaining the software, managing the station's DJs and their time slots, and also contributing DJ time myself. In a similar vein, I wanted to spend some time recreating a similar setup and working in some new technologies at the same time.
 
 ### What this article is not
 
@@ -26,25 +26,25 @@ There are four primary components to the setup as it exists now: Icecast, a cust
 
 ### Icecast
 
-[Icecast](1) is an open-source free software project maintained by the [Xiph.org Foundation](3) that is designed for media streaming. It is, along with similar project ShoutCAST, responsible for powering the vast majority of streaming audio internet radio stations.
+[Icecast][1] is an open-source free software project maintained by the [Xiph.org Foundation][3] that is designed for media streaming. It is, along with similar project ShoutCAST, responsible for powering the vast majority of streaming audio internet radio stations.
 
-Setting up this software is fairly straightforward, and I'm fortunate in that I've done it before, so there were few hiccups. I set up two mount points: one for DJs to connect to do their shows, and another in advance for when I would set up automation with MPD. Once Icecast was fully configured, I began feeding it with audio data from [Nicecast](4) on my laptop.
+Setting up this software is fairly straightforward, and I'm fortunate in that I've done it before, so there were few hiccups. I set up two mount points: one for DJs to connect to do their shows, and another in advance for when I would set up automation with MPD. Once Icecast was fully configured, I began feeding it with audio data from [Nicecast][4] on my laptop.
 
 ### HTML5 front-end
 
 Once I had the Icecast stream sorted out, I began work on a custom front-end written in HTML5 and Javascript. I wanted to have an interface that was both beautiful and simple, and that was where my work began.
 
-First, I set out to set up a basic prototype interface. I happened upon a great pink color with the first color I randomly typed in the CSS code, and gathered some good icons for the loading spinner, play button, and pause button from [FontAwesome](5). From here, I hooked up the HTML5 `<audio>` element and hooked it up to the pause and play buttons using Javascript and [JQuery](6). This, for me, represented the base level of functionality -- the stream would play, and it was able to be paused and unpaused.
+First, I set out to set up a basic prototype interface. I happened upon a great pink color with the first color I randomly typed in the CSS code, and gathered some good icons for the loading spinner, play button, and pause button from [FontAwesome][5]. From here, I hooked up the HTML5 `<audio>` element and hooked it up to the pause and play buttons using Javascript and [JQuery][6]. This, for me, represented the base level of functionality -- the stream would play, and it was able to be paused and unpaused.
 
-The next step was to figure out how to display the currently playing track. Some sleuthing revealed to me that there was a `status-json` file I could pull from the Icecast server which, among other things, included the current track titles being played. Some time later, I had written some Javascript code that pulled that json file, got the current track info, and wrote that to screen. Now that we had some text on the screen, I knew it had to be beautiful -- so I grabbed the typeface [Lato](8) from [Typekit](7), also in use on [the main Playful Collective website](9), and used that to style the page. Typekit's great support for OpenType features means that "fi" and similar ligatures render correctly on-screen.
+The next step was to figure out how to display the currently playing track. Some sleuthing revealed to me that there was a `status-json` file I could pull from the Icecast server which, among other things, included the current track titles being played. Some time later, I had written some Javascript code that pulled that json file, got the current track info, and wrote that to screen. Now that we had some text on the screen, I knew it had to be beautiful -- so I grabbed the typeface [Lato][8] from [Typekit][7], also in use on [the main Playful Collective website][9], and used that to style the page. Typekit's great support for OpenType features means that "fi" and similar ligatures render correctly on-screen.
 
 From here, all the basic functionality necessary for a radio station streaming page was present -- we had the audio stream, a track display, and a play/pause control. Now that the basics were dealt with, I could move on to setting up automation.
 
 ### MPD
 
-[MPD](2) is another open-source free software project that acts as a server that plays music. Unlike iTunes or WinAMP, where the GUI and music database and playback logic are together in one application, MPD only handles the database and music playback -- it must be controlled by an external client.
+[MPD][2] is another open-source free software project that acts as a server that plays music. Unlike iTunes or WinAMP, where the GUI and music database and playback logic are together in one application, MPD only handles the database and music playback -- it must be controlled by an external client.
 
-I had many issues setting up MPD on the server I'm using -- after a ton of hassles getting MPD to compile with libshout support, which it needs to connect to the Icecast server, it ended up simply [segfaulting](10) at launch every time. Then, the support team at my host introduced me to [Junest](11), with which I was able to simply install it like a regular package, as opposed to the manual compilation I did for everything else, not having root access. (Big thanks to Chance and thebigmunch on the [Whatbox](12) support team for all their assistance.) From here, I configured it to connect to the automation mount point I set up in Icecast, threw a few tracks in the default playlist, and told it to play.
+I had many issues setting up MPD on the server I'm using -- after a ton of hassles getting MPD to compile with libshout support, which it needs to connect to the Icecast server, it ended up simply [segfaulting][10] at launch every time. Then, the support team at my host introduced me to [Junest][11], with which I was able to simply install it like a regular package, as opposed to the manual compilation I did for everything else, not having root access. (Big thanks to Chance and thebigmunch on the [Whatbox][12] support team for all their assistance.) From here, I configured it to connect to the automation mount point I set up in Icecast, threw a few tracks in the default playlist, and told it to play.
 
 And it worked -- kind of. Audio played just fine, but the Icecast fallback wasn't smart enough to forward the track information from the automation mount to the main mount. I'd have to get a little smarter.
 
@@ -54,17 +54,17 @@ The original code that I wrote to pull and display the title data acted on the a
 
 ## Beyond basic functionality
 
-From here there were several things I needed to do. To make automation fully functional, I needed a system for feeding the MPD playlist with new, random tracks from the database. Josh Kunz's [Ashuffle](13) fit the bill exactly, and was reasonably easy to set up.
+From here there were several things I needed to do. To make automation fully functional, I needed a system for feeding the MPD playlist with new, random tracks from the database. Josh Kunz's [Ashuffle][13] fit the bill exactly, and was reasonably easy to set up.
 
-Next, I wanted to make it easy for friends to add additional music to the server, and to vote on tracks they would like to be played. (This was largely inspired with my past experience with the site [GBS.fm](14), a community radio station implementing both of these features.) For this, I would need an FTP daemon, and some sort of software that would interface with MPD to add new songs when requested.
+Next, I wanted to make it easy for friends to add additional music to the server, and to vote on tracks they would like to be played. (This was largely inspired with my past experience with the site [GBS.fm][14], a community radio station implementing both of these features.) For this, I would need an FTP daemon, and some sort of software that would interface with MPD to add new songs when requested.
 
 ### ProFTPd
 
-ProFTPd is an open-source free software FTP daemon. As it's what Whatbox recommends and supports for users wanting to set up their own FTP daemons, it was an easy choice. ProFTPd was easily configured to allow listeners to upload new music to a special directory, and, importantly, not see or interact with any other music already existing there. A [symbolic link](15) links from the main music folder (of music I have requisitioned myself) to that folder, enabling MPD to see it.
+ProFTPd is an open-source free software FTP daemon. As it's what Whatbox recommends and supports for users wanting to set up their own FTP daemons, it was an easy choice. ProFTPd was easily configured to allow listeners to upload new music to a special directory, and, importantly, not see or interact with any other music already existing there. A [symbolic link][15] links from the main music folder (of music I have requisitioned myself) to that folder, enabling MPD to see it.
 
 ## Future extension
 
-Left to implement is the voting mechanism. [VoteMPD](16) is an open-source free software project that implements a client for MPD in PHP -- this would provide the voting interface I was hoping for. Unfortunately, once getting the web server to serve it set up, I found that, upon importing the songs, it would crash when importing files containing Unicode data in the ID3 tags. (I have filed a bug for this.) In the meantime, I could simply remove all tracks with Unicode characters from the database, but that will have to remain for another day.
+Left to implement is the voting mechanism. [VoteMPD][16] is an open-source free software project that implements a client for MPD in PHP -- this would provide the voting interface I was hoping for. Unfortunately, once getting the web server to serve it set up, I found that, upon importing the songs, it would crash when importing files containing Unicode data in the ID3 tags. (I have filed a bug for this.) In the meantime, I could simply remove all tracks with Unicode characters from the database, but that will have to remain for another day.
 
 ## Current caveats
 
@@ -78,7 +78,7 @@ In just a few days, I've accomplished quite a bit of work -- and this is after n
 
 ## Special thanks
 
-I would like to give thanks to the [Whatbox](12) support team, specifically Chance and thebigmunch, for their assistance when I ran into issues -- if you need a Linux shell account host, their customer support is second to none. I'd also like to thank [FontAwesome](5), responsible for the iconography, and [Łukasz Dziedzic](17), who designed the typeface [Lato](8), for being responsible for a significant amount of the look and feel of the site. And, of course, to the tens (or maybe over a hundred) of pieces of advice gleaned from Stack Overflow and other sites while figuring out how to do all of this. (Google is a wonderful tool.)
+I would like to give thanks to the [Whatbox][12] support team, specifically Chance and thebigmunch, for their assistance when I ran into issues -- if you need a Linux shell account host, their customer support is second to none. I'd also like to thank [FontAwesome][5], responsible for the iconography, and [Łukasz Dziedzic][17], who designed the typeface [Lato][8], for being responsible for a significant amount of the look and feel of the site. And, of course, to the tens (or maybe over a hundred) of pieces of advice gleaned from Stack Overflow and other sites while figuring out how to do all of this. (Google is a wonderful tool.)
 
 ## Remaining tasks
 
