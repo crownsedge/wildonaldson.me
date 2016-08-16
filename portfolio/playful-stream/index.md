@@ -77,7 +77,7 @@ In just a few days, I've accomplished quite a bit of work -- and this is after n
 > Want to check it out? [Click here](http://stream.playful.cc/){:target="_blank"} to launch the Playful Stream.<!-- fix markup display_ -->
 >
 > Check out the front-end code on [Github](https://github.com/wonaldson/playful-frontend).
-> 
+>
 > Follow me on Twitter at [@wonaldson](https://twitter.com/wonaldson).
 
 ## Special thanks
@@ -86,6 +86,8 @@ I would like to give thanks to the [Whatbox][12] support team, specifically Chan
 
 ## Remaining tasks
 
+* Look into making this functional on mobile devices
+* Look into making the CSS responsive for mobile devices
 * Have the title updater wait the length of the current buffer to update title on-screen
 * Re-enable MPD password once Ashuffle is updated to support authentication
 * Debug UI display when network connection lost
