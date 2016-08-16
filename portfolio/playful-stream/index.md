@@ -75,7 +75,9 @@ There are a few drawbacks to the current setup that I would like to resolve at s
 In just a few days, I've accomplished quite a bit of work -- and this is after not having done any coding for several months. From navigating several new-to-me programs, to coding an entire HTML5/CSS3/JS streaming radio player, I've learned an incredible amount and I'm sure I will continue to as this project expands. It feels good to create things -- especially when their express purpose is sharing things I love with the world.
 
 > Want to check it out? [Click here](http://stream.playful.cc/){:target="_blank"} to launch the Playful Stream.<!-- fix markup display_ -->
+>
 > Check out the front-end code on [Github](https://github.com/wonaldson/playful-frontend).
+> 
 > Follow me on Twitter at [@wonaldson](https://twitter.com/wonaldson).
 
 ## Special thanks
