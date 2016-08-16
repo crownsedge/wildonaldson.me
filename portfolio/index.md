@@ -16,7 +16,7 @@ Listen to some audio pieces I've created over the years. (Coming soon)
 Check out some featured writing from my school years and from my internship with Sirius XM.
 
 ## [Playful Stream](/portfolio/playful-stream/)
-For a fun summer project while trying to find a job after my last undergraduate semester, I set out to, once again, set up an internet radio station with a custom HTML5 front-end.
+For a fun summer project while trying to find a job after my last undergraduate semester, I set up an internet radio station with a custom HTML5 front-end.
 
 ## [Quiver](/portfolio/quiver/)
 For the capstone project of my [Digital Media Programming & Management](http://www.newpaltz.edu/ugc/las/comm_media/major_dmprog-mgmt.html) degree, I created a business plan for [Quiver](/portfolio/quiver/), a dating app for LGBTQIAP+ people.
