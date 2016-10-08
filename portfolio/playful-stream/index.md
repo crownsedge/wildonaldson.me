@@ -8,7 +8,7 @@ published: true
 
 [![Screenshot of Playful Stream](playful-stream.png "Click here to launch the stream.")](http://stream.playful.cc/ "Click here to launch the stream."){:target="_blank"}<!-- fix markup display_ -->
 
-For a fun summer project while trying to find a job after my last undergraduate semester, I am working on another radio project -- this time, setting up an internet radio station once again.
+For a fun summer project while trying to find a job after my last undergraduate semester, I am working on another radio project -- this time, once again setting up an internet radio station.
 
 > [Click here](http://stream.playful.cc/){:target="_blank"} to launch the Playful Stream.<!-- fix markup display_ -->
 
@@ -91,6 +91,7 @@ I would like to give thanks to the [Whatbox][12] support team, specifically Chan
 * Have the title updater wait the length of the current buffer to update title on-screen
 * Re-enable MPD password once Ashuffle is updated to support authentication
 * Debug UI display when network connection lost
+* Have automation -> next track on DJ disconnect
 * Probably other things I have forgotten
 
 
