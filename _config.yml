@@ -8,7 +8,6 @@ title:            'Wil Donaldson'
 tagline:          'For the love of it.'
 description:      'For the love of it.'
 url:              http://wildonaldson.me
-baseurl:          /
 
 timezone:         America/New_York
 date_format:      "%B %-d, %Y"
